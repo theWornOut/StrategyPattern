@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern.UI", "StrategyPattern.UI\StrategyPattern.UI.csproj", "{A6FB0EC7-3E71-4A70-9899-605219B44E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern.Business", "StrategyPattern.Business\StrategyPattern.Business.csproj", "{45E42859-A0FA-45A1-AC1F-5741B4D018B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6FB0EC7-3E71-4A70-9899-605219B44E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FB0EC7-3E71-4A70-9899-605219B44E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FB0EC7-3E71-4A70-9899-605219B44E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FB0EC7-3E71-4A70-9899-605219B44E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E42859-A0FA-45A1-AC1F-5741B4D018B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E42859-A0FA-45A1-AC1F-5741B4D018B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E42859-A0FA-45A1-AC1F-5741B4D018B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E42859-A0FA-45A1-AC1F-5741B4D018B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
